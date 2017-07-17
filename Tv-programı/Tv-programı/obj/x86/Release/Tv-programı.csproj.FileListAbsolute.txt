@@ -1,0 +1,12 @@
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\bin\Release\Tv-programı.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\bin\Release\Tv-programı.pdb
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\bin\Release\Interop.WMPLib.dll
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Release\Tv-programı.csproj.ResolveComReference.cache
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Release\Tv_programı.Form1.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Release\Tv_programı.Properties.Resources.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Release\Tv-programı.csproj.GenerateResource.Cache
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Release\Tv-programı.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Release\Tv-programı.pdb

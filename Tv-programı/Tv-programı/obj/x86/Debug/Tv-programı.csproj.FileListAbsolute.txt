@@ -1,0 +1,29 @@
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\bin\Debug\Tv-programı.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\bin\Debug\Tv-programı.pdb
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\bin\Debug\Interop.WMPLib.dll
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Debug\Tv-programı.csproj.ResolveComReference.cache
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Debug\Tv_programı.Form1.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Debug\Tv_programı.Properties.Resources.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Debug\Tv-programı.csproj.GenerateResource.Cache
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Debug\Tv-programı.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\Tv-programı\obj\x86\Debug\Tv-programı.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\Tv-programı\Tv-programı\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Samet\documents\visual studio 2010\Projects\Tv-programı\Tv-programı\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Samet\documents\visual studio 2010\Projects\Tv-programı\Tv-programı\obj\x86\Debug\Tv-programı.csproj.ResolveComReference.cache
+C:\Users\Samet\documents\visual studio 2010\Projects\Tv-programı\Tv-programı\obj\x86\Debug\Tv-programı.exe
+C:\Users\Samet\documents\visual studio 2010\Projects\Tv-programı\Tv-programı\obj\x86\Debug\Tv-programı.pdb
+F:\Programlar\Tv-programı\Tv-programı\obj\x86\Debug\Interop.WMPLib.dll
+F:\Programlar\Tv-programı\Tv-programı\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Programlar\Tv-programı\Tv-programı\obj\x86\Debug\Tv-programı.csproj.ResolveComReference.cache
+F:\Programlar\Tv-programı\Tv-programı\obj\x86\Debug\Tv-programı.exe
+F:\Programlar\Tv-programı\Tv-programı\obj\x86\Debug\Tv-programı.pdb
+F:\Programlar\Tv-programı\Tv-programı\bin\Debug\Tv-programı.exe
+F:\Programlar\Tv-programı\Tv-programı\bin\Debug\Tv-programı.pdb
+F:\Programlar\Tv-programı\Tv-programı\bin\Debug\Interop.WMPLib.dll
+F:\Programlar\Tv-programı\Tv-programı\bin\Debug\AxInterop.WMPLib.dll
+F:\Programlar\Tv-programı\Tv-programı\obj\x86\Debug\Tv_programı.Form1.resources
+F:\Programlar\Tv-programı\Tv-programı\obj\x86\Debug\Tv_programı.Properties.Resources.resources
+F:\Programlar\Tv-programı\Tv-programı\obj\x86\Debug\Tv-programı.csproj.GenerateResource.Cache
